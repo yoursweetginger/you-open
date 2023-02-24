@@ -26,3 +26,4 @@ keywords:
 
 - [релокация (ex Гайд | Чат)](https://t.me/relocation_cis)
 - [Ковчег](https://t.me/ArkHelps)
+- [гайд ✈️](https://t.me/Guideofrelocation)
