@@ -27,6 +27,6 @@ keywords:
 
 :::danger
 
-Рекомендуется воздержаться от контактов с администрацией чата [ВЕЛИГАМНОСТЬ](https://t.me/weligamnost), из-за [агрессивного отношения к пользователям](other.md#negative-experience).
+Рекомендуется воздержаться от контактов с администрацией чата [ВЕЛИГАМНОСТЬ](https://t.me/weligamnost), из-за [агрессивного отношения к пользователям](https://sri-lanka.you-open.com/other/#weligamnost-southceylon).
 
 :::
