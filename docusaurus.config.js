@@ -55,7 +55,7 @@ const config = {
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
-        //     'https://github.com/yoursweetginger/you-open-sri-lanka/tree/master',
+        //     'https://github.com/yoursweetginger/you-open/tree/master',
         // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -72,14 +72,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // TODO: нормальный размер сделать картинки
-      image: 'img/mascot_with_background.png',
+      image: 'img/mascot.png',
       navbar: {
         hideOnScroll: true,
         title: 'You open',
         logo: {
           alt: 'You open Logo',
           // TODO: нормальный размер сделать картинки
-          src: 'img/mascot_with_background.png',
+          src: 'img/mascot.png',
         },
         items: [
           // {
@@ -91,7 +91,7 @@ const config = {
           // Не работает блог если поменять путь
           // {to: './events', label: 'Эвенты', position: 'left'},
           {
-            href: 'https://github.com/yoursweetginger/you-open-sri-lanka',
+            href: 'https://github.com/yoursweetginger/you-open',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
@@ -141,7 +141,7 @@ const config = {
       //       ],
       //     },
       //   ],
-        copyright: `You open.`,
+        copyright: `You open. Лицензия CC BY-NC-SA 4.0`,
       },
       prism: {
         theme: lightCodeTheme,

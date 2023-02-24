@@ -8,7 +8,7 @@ keywords:
   - чаты
 ---
 
-# You open {#you-open}
+# Главная {#main}
 
 Лист сайтов, чатов и прочих ресурсов с информацией о странах для прибытия, путешествия, переезда и проживания в них.
 
@@ -26,3 +26,4 @@ keywords:
 
 - [релокация (ex Гайд | Чат)](https://t.me/relocation_cis)
 - [Ковчег](https://t.me/ArkHelps)
+- [гайд ✈️](https://t.me/Guideofrelocation)
