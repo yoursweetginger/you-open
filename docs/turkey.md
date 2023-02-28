@@ -2,7 +2,6 @@
 description: Ресурсы по Турции
 sidebar_position: 50
 keywords:
-  - общее
   - сайты
   - чаты
   - Турция
