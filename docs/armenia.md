@@ -2,7 +2,6 @@
 description: Ресурсы по Армении
 sidebar_position: 50
 keywords:
-  - общее
   - сайты
   - чаты
   - Армения
