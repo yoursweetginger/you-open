@@ -16,11 +16,13 @@ keywords:
 
 <!-- TODO: добавить краткое описание по сайтам -->
 
-- [Relocation guide](http://relocation.guide/) ([если вы из России](https://relocation-guide.super.site/))
-- [Ковчег](https://kovcheg.live/)
-- [Habr](https://habr.com/ru/hub/it_immigration/top/alltime/)
-- [vc.ru](https://vc.ru/migrate)
-- [Тинькофф журнал](https://journal.tinkoff.ru/flows/emigration-all/)
+- [Relocation guide](http://relocation.guide/) ([если вы из России](https://relocation-guide.super.site/)) - Гайды по переезду в другие страны
+- [Ковчег](https://kovcheg.live/) - Благотворительная организация. Помогает в переезде в другие страны и интегрировании.
+- [Habr](https://habr.com/ru/hub/it_immigration/top/alltime/) - IT сообщество со статьями про переезд/проживании в других странах
+- [vc.ru](https://vc.ru/migrate) - Статьи от пользователей по переезду/проживанию/проблемах/новости в других странах.
+- [Тинькофф журнал](https://journal.tinkoff.ru/flows/emigration-all/) - Статьи от пользователей по переезду/проживанию/проблемах/новости в других странах.
+- [Nomad list](https://nomadlist.com/) - рейтинг городов для удаленной работы (номадов) с кратким описанием.
+- [Numbeo](https://www.numbeo.com/cost-of-living/) - база данных стоимости жизни по городам. Разбивка по ценам рестораны, аренда, продукты, транспорт и т.д. 
 
 ## Чаты {#chats}
 
