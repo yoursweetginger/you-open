@@ -7,7 +7,7 @@ keywords:
   - Уругвай
 ---
 
-# Уругвай {#argentina}
+# Уругвай {#uruguay}
 
 ## Сайты {#sites}
 
