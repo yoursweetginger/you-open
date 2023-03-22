@@ -18,9 +18,10 @@
 
 У вас должен быть установлен node.js >= 16.14
 
-1. В склонированной директории ```npx docusaurus start```
-2. Для сборки ```npx docusaurus build```
-3. Для запуска собранного сайта ```npx docusaurus serve```
+1. Установить зависимости `npm install`
+2. В склонированной директории `npx docusaurus start`
+3. Для сборки `npx docusaurus build`
+4. Для запуска собранного сайта `npx docusaurus serve`
 
 ## Лицензия
 
