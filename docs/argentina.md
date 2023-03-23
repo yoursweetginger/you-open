@@ -11,6 +11,7 @@ keywords:
 
 ## Сайты {#sites}
 
+- [You open - Аргентина](https://you-open.com/argentina/)
 - [Иммиграция RuArgentina.](https://go.ruargentina.com/blog) [FAQ](https://go.ruargentina.com/faq)
 - [Argentinahub](https://argentinahub.com/)
 
