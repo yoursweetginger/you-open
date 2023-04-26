@@ -26,6 +26,8 @@ keywords:
 - [Форум Винского](https://forum.awd.ru/) - Форумы по странам.
 - [Relogate](https://relogate.online/) - Гайды по странам. Информация по переезду, интеграции, открытию и ведению бизнеса.
 - [Иммиграция в Новый Свет](https://immigrate-to-the-new-world.notion.site/immigrate-to-the-new-world/aacf1a6b47cf4e66bd3b8a9a8468b535) - Гайды о программах иммиграции и путях получения гражданства стран Нового Света.
+- [Рейтинг паспортов](https://www.passportindex.org/ru/)
+- [VisaDB](https://visadb.io/search/visas/all/Argentina/Anywhere) - База данных виз для разных стран. Может не содержать полный список всех возможных виз.
 
 ## Чаты {#chats}
 
