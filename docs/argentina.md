@@ -19,6 +19,7 @@ keywords:
 - [Argentinahub](https://argentinahub.com/)
 - [¡RA! Форум Русская Аргентина](http://russianargentina.com.ar/index.php) - форум, неактивен
 - [CashAr - таблица обмена валют в Аргентине](https://docs.google.com/spreadsheets/d/e/2PACX-1vR726FN6QrP4h43xsm5UYBmhGXJPmJBpL0dY7XsTfyorvPNLq9VJpaX6wZ_b2pyUDoLm3l6l_1mrb-z/pubhtml?gid=1189420007&single=true)
+- [cambioca](https://cambioca.com/) - онлайн курсы обменников
 
 ## Чаты {#chats}
 
